@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="ru">
 <head><title>Привет мир!</title></head>
 <body>
